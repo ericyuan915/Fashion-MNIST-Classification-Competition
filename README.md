@@ -1,1 +1,1 @@
-# Fashion-MNIST-Classification-Competition-
+# Fashion-MNIST-Classification-Competition
